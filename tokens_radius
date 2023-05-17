@@ -1,0 +1,8 @@
+{
+  "global": {
+    "large": {
+      "value": "8",
+      "type": "borderRadius"
+    }
+  }
+}
